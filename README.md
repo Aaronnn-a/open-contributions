@@ -1,2 +1,17 @@
-# open-contributions
-Documenting my open source contributions and GitHub workflow practice (fork, branch, commit, PR). Includes public contributions and summaries of private ones. Of course, no code or confidential information will be leaked here — this is simply to track and showcase my contributions.
+# Open Contributions Logbook 📓
+
+This repository is my personal logbook of open source practice and contributions.  
+I use it to document my GitHub workflow (fork, branch, commit, pull request) and track my progress.  
+⚠️ No code or confidential information will ever be published here, **unless I am explicitly allowed to share it and/or it is already public**.
+
+---
+
+## 2025-09-26
+## 2025-09-26
+✅ Created my first pull request to the Unreal Engine repository (Epic Games).  
+Since the repository is private, no public link can be shared here.  
+Screenshot proof:  
+![PR Screenshot](<img width="710" height="410" alt="2025-09-26 191638" src="https://github.com/user-attachments/assets/92b24b52-670d-4092-bd35-342f310a5f2c" />)
+
+---
+
