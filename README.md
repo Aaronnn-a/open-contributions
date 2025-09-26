@@ -7,11 +7,10 @@ I use it to document my GitHub workflow (fork, branch, commit, pull request) and
 ---
 
 ## 2025-09-26
-## 2025-09-26
 ✅ Created my first pull request to the Unreal Engine repository (Epic Games).  
 Since the repository is private, no public link can be shared here.  
 Screenshot proof:  
-![PR Screenshot](<img width="710" height="410" alt="2025-09-26 191638" src="https://github.com/user-attachments/assets/92b24b52-670d-4092-bd35-342f310a5f2c" />)
+<img width="710" height="410" alt="2025-09-26 191638" src="https://github.com/user-attachments/assets/92b24b52-670d-4092-bd35-342f310a5f2c" />
 
 ---
 
